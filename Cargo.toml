@@ -1,5 +1,5 @@
 [package]
-name = "cp-lib"
+name = "cplib"
 version = "0.1.0"
 authors = ["kuisiba <kuisiba@gmail.com>"]
 edition = "2018"
